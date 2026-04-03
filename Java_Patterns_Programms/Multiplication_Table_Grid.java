@@ -16,3 +16,4 @@ class Multiplication_Table_Grid
         }
     }
 }
+
