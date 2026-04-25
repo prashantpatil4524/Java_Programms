@@ -16,4 +16,3 @@ public class Sum_Nth_element {
         sc.close();
     }
 }
-
